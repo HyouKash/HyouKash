@@ -20,3 +20,5 @@ class HyouKa(ReadMe):
         self.operating_system = "Arch, Linux"
 ```
 [![CodeWars Badge](https://www.codewars.com/users/HyouKash/badges/large)](https://www.codewars.com/users/HyouKash)
+
+<script src="https://tryhackme.com/badge/645970"></script>
