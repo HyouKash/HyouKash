@@ -21,4 +21,4 @@ class HyouKa(ReadMe):
 ```
 [![CodeWars Badge](https://www.codewars.com/users/HyouKash/badges/large)](https://www.codewars.com/users/HyouKash)
 
-<script src="https://tryhackme.com/badge/645970"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/EmperorH.png" alt="TryHackMe">
