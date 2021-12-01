@@ -8,7 +8,12 @@ class HyouKa(ReadMe):
         self.username = "HyouKa"
         self.contacts = {
             "Discord": "HyouKa#0777",
-            "Telegram": BinksHyouKa
+            "Telegram": "BinksHyouKa"    
+        }
+        self.web = {
+            "TryHackMe": "EmperorH",
+            "HackTheBox": "EmperorH#327380",
+            "Codewars": "HyouKash"
         }
         self.occupation = "Dev / Pen Tester"
         self.projects = {
@@ -20,5 +25,7 @@ class HyouKa(ReadMe):
         self.operating_system = "Arch, Linux"
 ```
 [![CodeWars Badge](https://www.codewars.com/users/HyouKash/badges/large)](https://www.codewars.com/users/HyouKash)
+
+-------
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/EmperorH.png" alt="TryHackMe">
