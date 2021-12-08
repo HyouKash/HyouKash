@@ -7,7 +7,7 @@ class HyouKa(ReadMe):
     def __init__(self):
         self.username = "HyouKa"
         self.contacts = {
-            "Discord": "HyouKa#0777",
+            "Discord": "HyouKa#0007",
             "Telegram": "BinksHyouKa"    
         }
         self.web = {
