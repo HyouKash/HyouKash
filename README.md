@@ -24,6 +24,6 @@ class HyouKa(ReadMe):
         }
         self.operating_system = "Arch, Linux"
 ```
-<img src="https://tryhackme-badges.s3.amazonaws.com/EmperorH.png" alt="TryHackMe"> 
+<img src="https://www.codewars.com/users/HyouKash/badges/micro" alt ="Codewars"> 
 <img src="http://www.hackthebox.eu/badge/image/327380" alt="Hack The Box">
-<img src="https://www.codewars.com/users/HyouKash/badges/micro" alt ="Codewars">
+<img src="https://tryhackme-badges.s3.amazonaws.com/EmperorH.png" alt="TryHackMe">
