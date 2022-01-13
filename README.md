@@ -26,4 +26,4 @@ class HyouKa(ReadMe):
 ```
 <img src="https://tryhackme-badges.s3.amazonaws.com/EmperorH.png" alt="TryHackMe"> 
 <img src="http://www.hackthebox.eu/badge/image/327380" alt="Hack The Box">
-[![CodeWars Badge](https://www.codewars.com/users/HyouKash/badges/micro)](https://www.codewars.com/users/HyouKash)
+<img src="https://www.codewars.com/users/HyouKash/badges/micro" alt ="Codewars">
