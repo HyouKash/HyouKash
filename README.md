@@ -18,7 +18,7 @@ class HyouKa(ReadMe):
         self.occupation = "Dev / Pen Tester"
         self.projects = {
             "public": {
-                  "total": 14,
+                  "total": 15,
                   "location": "github.com/HyouKash?tab=repositories"
             },
         }
